@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding something to a file!
+=======
+Adding words to file no. 3
+>>>>>>> e8f36ecf0c2d4d0a0d0725ea11d6fe9801e4840d
