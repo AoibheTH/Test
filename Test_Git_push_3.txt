@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+Emptied file
+>>>>>>> 6dec8ee261f302eb6e03d10b3c3928bc2fde1367
