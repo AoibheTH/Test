@@ -1,3 +1,5 @@
 This text file has now been modified and saved (this is 
 evident from the orange 'M' shown beside this file on the 
 left column)
+
+Added text
