@@ -1,0 +1,2 @@
+This a text document!
+Now a conflict I have edited this line again!
